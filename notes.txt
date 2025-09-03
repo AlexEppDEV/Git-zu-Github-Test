@@ -1,6 +1,7 @@
 git init für den start // for init
 git add <file> 
 git commit -m = "your commit message"
-get reset --soft HEAD~1
-get reset --mixed HEAD~1
-get reset --hard HEAD~1
+git reset --soft HEAD~1 = löscht letze änderung local aus git 
+git reset --mixed HEAD~1
+git reset --hard HEAD~1 = löscht die letzte änderung von git und local 
+git revert commitID = commitID durch echte id tauschen 
