@@ -28,3 +28,10 @@ git revert commitID(commitID durch echte id tauschen) = mit revert löschen von 
     - Current - was ich geändert habe 
     - Incoming - zweite person geändert
     - Result - ist resultat was ich mache 
+
+------- Branches ------- 
+    - Branches = eine bereich für testen unabhänging von metabase
+    - main = ist für user die könnendas nutzen
+    - Dev = ist eine test umgebung
+    - feature = 
+    - bugfix = 
