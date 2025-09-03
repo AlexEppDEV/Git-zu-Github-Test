@@ -1,7 +1,21 @@
+============ Modul 5 ============
+
+------- Basis -------  
 git init für den start // for init
 git add <file> 
 git commit -m = "your commit message"
+
+------- Git Reset -------  
 git reset --soft HEAD~1 = löscht letze änderung local aus git 
 git reset --mixed HEAD~1
 git reset --hard HEAD~1 = löscht die letzte änderung von git und local 
+
+------- Git Revert ------- 
 git revert commitID(commitID durch echte id tauschen) = mit revert löschen von github
+
+------- Aufbau Repositories: Readme, .gitignore und license ------- 
+    - .gitingnore = damit kann man die datein ignorien die nicht hochgeladen werden sollen.
+    - README - infos zu Repositories hinterlegen auf github
+    - license - immer drauf achte wer,wo für  benutzen dartf auf github 
+        -MIT license benutzen ohne ist ohne haftung
+
