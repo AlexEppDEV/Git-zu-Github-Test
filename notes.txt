@@ -19,3 +19,12 @@ git revert commitID(commitID durch echte id tauschen) = mit revert löschen von 
     - license - immer drauf achte wer,wo für  benutzen dartf auf github 
         -MIT license benutzen ohne ist ohne haftung
 
+------- Clone Repositories ------- 
+    - git clone "" - GitHub-URL - einfügen"" 
+        - gitHub link kopieren und dann in vs code ordner öffnen wo das him soll.
+          Dann console öffnen und befehl git clone ID (link url) ein geben und ausführen
+
+------- Merge conflicts ------- 
+    - Current - was ich geändert habe 
+    - Incoming - zweite person geändert
+    - Result - ist resultat was ich mache 
